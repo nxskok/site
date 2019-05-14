@@ -5,8 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+      icon: fa-home
     - text: "About"
       href: about.html
+      icon: fa-info
     - text: "Another thing"
       href: another.html
 
