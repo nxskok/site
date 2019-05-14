@@ -10,5 +10,6 @@ navbar:
       href: about.html
       icon: fa-info
     - text: "Another thing"
+      icon: fa-gear
       href: another.html
 
